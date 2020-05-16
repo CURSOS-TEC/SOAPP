@@ -1,5 +1,7 @@
 {
   "name": "SOAPP",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
