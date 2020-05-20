@@ -4,7 +4,7 @@
       Cliente de envío de imágenes
     </ion-title>
     <ion-buttons slot="end">
-      <ion-button>
+      <ion-button (click)="presentAlertPrompt()">
         <ion-icon name="settings-outline"></ion-icon>
       </ion-button>
     </ion-buttons>
@@ -21,10 +21,8 @@
     </ion-card-header>
     <ion-card-content>
       <ion-button (click)="readFile()" expand="block">Cargar imagen</ion-button>
-      <ion-button (click)="sendFile()" [disabled]="disableButtonSend" color="warning" expand="block">Enviar imagen
-      </ion-button>
+      <ion-button (click)="sendFile()" [disabled]="disableButtonSend" color="warning" expand="block">Enviar imagen</ion-button>
     </ion-card-content>
   </ion-card>
-
 
 </ion-content>

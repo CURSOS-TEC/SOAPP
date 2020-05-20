@@ -1,0 +1,22 @@
+Cuando se instala libmicrohttp:
+	En algunos sistemas operativos GNU-Linux i.e: (Debian), se verificó una serie de incompatibilidades con la maquina:
+		Computadora de del integrante Juan, Navarro tiene una versin menor que la del compañero Santiago. 
+		Enlace: 
+		[1] https://www.cyberciti.biz/faq/debian-ubuntu-linux-apt-get-aptitude-show-package-version-command/
+		[2] https://www.3cx.com/blog/voip-howto/os-security-updates-debian/
+Seleccionar una imagén del archivo:			
+
+Obteción del usuario en C:
+	[1]: https://stackoverflow.com/questions/1451825/c-programming-printing-current-user
+	[2]: https://linux.die.net/man/2/getuid
+	[3]: 
+
+Parte de los enlaces utilizados para subir imágenes:
+	[1]: https://medium.com/better-programming/upload-files-in-ionic-angular-apps-784f0c382eb0
+	[2]: https://medium.com/techiediaries-com/uploading-files-with-formdata-and-post-requests-using-angular-9-httpclient-762d804dd68c
+	[3]: https://stackoverflow.com/questions/8268316/how-to-retrieve-the-user-name-from-the-user-id
+	[4]: https://forum.ionicframework.com/t/how-to-upload-file-using-post-method-in-ionic/101487/3
+	[5]: https://academind.com/learn/angular/snippets/angular-image-upload-made-easy/
+	[6]: https://ionicframework.com/docs/native/file-transfer
+	[7]: https://cordova.apache.org/blog/2017/10/18/from-filetransfer-to-xhr2.html
+	[8]: https://ionicframework.com/docs/api/alert
